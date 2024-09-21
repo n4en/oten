@@ -1,2 +1,2 @@
-# Oten
-Your ultimate guide to the Top 10 open-source tools across all software categories. Discover, explore, and leverage the best free and open-source tools for DevOps, data engineering, development, and more—all in one place.
+# oTen
+oTen – Your guide to the top 10 open-source tools in every stage of the software development lifecycle. Explore the best free tools for DevOps, data engineering, development, and more—all in one place.
